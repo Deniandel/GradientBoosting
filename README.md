@@ -1,7 +1,7 @@
 ## **Gradient Boosting for Wine Quality Prediction**
 
 ### **Overview**
-This project investigated the use of **Gradient Boosting**, specifically through **XGBoost**, to predict the quality of red wine based on various physicochemical features. The study compares the performance of **XGBoost** against a **baseline Decision Tree model** for both regression and classification tasks.
+This project investigated the use of **Gradient Boosting**, specifically through **XGBoost**, to predict the quality of red wine based on various physicochemical features. The study compares the performance of **XGBoost** against a **baseline Decision Tree model** for both regression and classification tasks. In this repository, you will find a full paper writeup of the results found, a presentation that sums up what was done, along with the actual code used to peform Gradient Boosting on the dataset.
 
 ---
 
